@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
+.venv/
+.vscode/
+*.fld
+*.txt
+*.pdf
+*.html
+*.csv
+
+# Specific files:
+prompt
