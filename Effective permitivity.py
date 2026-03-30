@@ -9,7 +9,7 @@ c = 3e8
 eps_r = 12
 f = 9.4e9  # Hz
 
-h_subs = np.array((0.050, 0.100, 0.250)) * 1e-3
+h_subs = np.array((0.050, 0.100, 0.200, 0.500)) * 1e-3
 w_line = np.array((0.030, 0.050, 0.200)) * 1e-3
 
 rows = []
